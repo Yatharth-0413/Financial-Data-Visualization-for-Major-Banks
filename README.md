@@ -4,6 +4,10 @@
 
 This project analyzes the stock performance of major banks (Bank of America, CitiGroup, Goldman Sachs, JPMorgan Chase, Morgan Stanley, Wells Fargo) from January 1, 2006, to January 1, 2016. The analysis includes fetching stock data, examining closing prices, calculating returns, visualizing data, and performing technical analysis. This project provides insights into the financial crisis and its impact on bank stocks, using various data visualization techniques and statistical measures.
 
+![Example Image](https://github.com/Yatharth-0413/Financial-Data-Visualization-for-Major-Banks/blob/main/Heatmap%20of%20Correlations.png)
+![Example Image](https://github.com/Yatharth-0413/Financial-Data-Visualization-for-Major-Banks/blob/main/Line%20Plot%20of%20Close%20Prices.png)
+![Example Image](https://github.com/Yatharth-0413/Financial-Data-Visualization-for-Major-Banks/blob/main/pairplot.png)
+![Example Image](https://github.com/Yatharth-0413/Financial-Data-Visualization-for-Major-Banks/blob/main/Distribution%20Plot%20for%202015%20Returns%20of%20Morgan%20Stanley.png)
 ## Data Collection
 
 Stock data is fetched using the Yahoo Finance API via the yfinance library. The data covers the period from January 1, 2006, to January 1, 2016.
