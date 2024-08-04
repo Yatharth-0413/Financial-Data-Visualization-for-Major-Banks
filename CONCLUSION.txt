@@ -1,0 +1,12 @@
+Goldman Sachs (GS) had the highest volatility during the analyzed period.
+Morgan Stanley (MS) and Bank of America (BAC) exhibited very similar risk profiles, particularly in 2015.
+Citigroup (C) showed significant volatility during the 2008 financial crisis.
+The heatmap revealed strong correlations between certain bank stocks, indicating that they often move in tandem.
+
+
+challanges:
+
+One challenge was handling the large volume of data and ensuring accuracy in calculations. 
+I overcame this by carefully structuring the data and using efficient pandas operations to manipulate and analyze it. 
+Another challenge was creating meaningful visualizations to convey insights effectively, which I addressed by experimenting with different plotting libraries 
+and customizing plots for clarity.
